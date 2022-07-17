@@ -1,7 +1,8 @@
-# linuxcommandsubuntu
-Linux commands Ubuntu
+# Linux Commands Ubuntu
 
-Commands básicos para mexer no terminal - Linux
+<h1>Heading level 1</h1> Linux commands Ubuntu
+
+<h3>Heading level 3</h3> Commands básicos para mexer no terminal - Linux - UBUNTU
 
 “ls”: ls (list): mostra os arquivos no diretório;
 
@@ -15,6 +16,8 @@ cd <nome da pasta>”: cd (change directory) nome da pasta (escreva o início + 
 Teclas p cima/baixo: mostra as últimas coisas escritas;
 
 “sudo apt update”: sudo (super user do) apt (advanced package tool) update: faz update como usuário root. Atualiza a lista de repositórios do sistema. O sistema vai verificar todos repositórios e informar se podem ser atualizados;
+
+<h6>Heading level 6</h6> APT: INSTALADOR DO UBUNTU (PACMAN É DO ARCHLINUX - e.g.: Manjaro, Garuda) 
 
 “man apt”: man (manual): mostra manual de qualquer comando. manual do apt;
 
