@@ -1,17 +1,18 @@
 # Linux Commands Ubuntu
 
-<h1>Linux commands Ubuntu</h1> 
+<h3>Commands básicos para mexer no terminal - <strong>Linux</strong> - <strong>UBUNTU</strong> 3</h3> 
 
-<h3>Commands básicos para mexer no terminal - Linux - UBUNTU 3</h3> 
 
 “ls”: ls (list): mostra os arquivos no diretório;
 
-cd <nome da pasta>”: cd (change directory) nome da pasta (escreva o início**+**tab, isso completará o nome visto q só terá um diretório c este início): entra na pasta;
+cd <nome da pasta>”: cd (change directory) nome da pasta (escreva o início**+**tab, isso completará o nome visto que só terá um diretório com este início): entra na pasta;
+  
 “cd ~” volta na home;
 
-“cd ~” volta na home, a msm q aparecia no “ls”;
+<strong>Linux commands Ubuntu</strong> “cd ~” volta na home, a mesma que aparecia no “ls”;
 
-“clear”/ctrl**+**L: limpa td tela;
+
+<strong>Linux commands Ubuntu</strong>“clear”/ctrl**+**L: limpa td tela;
 
 Teclas p cima/baixo: mostra as últimas coisas escritas;
 
