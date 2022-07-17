@@ -1,6 +1,6 @@
 # Linux Commands Ubuntu
 
-<h1>Linux commands Ubuntu 1</h1> 
+<h1>Linux commands Ubuntu</h1> 
 
 <h3>Commands básicos para mexer no terminal - Linux - UBUNTU 3</h3> 
 
@@ -25,13 +25,13 @@ Teclas p cima/baixo: mostra as últimas coisas escritas;
 
 “apt search” : pesquisa nas descrições do pacote;
 
-“sudo apt install <nome do aplicativo>”: precisa dO sudo, pORQUE modifica o sistema;
+“sudo apt install <nome do aplicativo>”: precisa dO sudo, porque modifica o sistema;
 
-2 tipos d upgrade. “sudo apt upgrade”: instala**&**atualiza pacotes d upgrade, novos pacotes e atualiza os q já existem. “sudo apt full-upgrade”: atualiza o sistema remove&instala&atualiza pacotes;
+2 tipos de upgrade. “sudo apt upgrade”: instala&atualiza pacotes d upgrade, novos pacotes e atualiza os q já existem. “sudo apt full-upgrade”: atualiza o sistema remove&instala&atualiza pacotes;
 
 “apt-cache depends <nome do programa>”: mostra dependências do app;
 
-“!!”: copy**&**paste o último comando escrito;
+“!!”: copy&paste o último comando escrito;
 
 instalar arquivo .**deb**: Baixa o instalador, aperta “**ls**”: p ve diretórios;
   depois “cd downloads”, para entrar na pasta Downloads;
