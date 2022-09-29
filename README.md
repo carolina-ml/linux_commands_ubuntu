@@ -1,4 +1,4 @@
-# Linux Commands Ubuntu
+# Linux Commands - Ubuntu
 
 <h3>Commands básicos para mexer no terminal - <strong>Linux</strong> - <strong>UBUNTU</strong> 3</h3> 
 
